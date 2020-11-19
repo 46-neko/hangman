@@ -10,7 +10,7 @@ You can change "hangman.out / .exe" for anything you like.
 # Wordlist instructions
 You can change the wordlist, just make sure the first line of the file is the numeber of lines - 1.<br />
 For example:<br />
-The default 3words.hwl has a 50 lines, so the first line is the number 49.
+The default 3words.hwl has 50 lines, so the first line is the number 49.
 
 # Wordlist folder
 After you complied the game, make sure that the wordlist folder is in the same directory as the .out/.exe file.<br />
