@@ -7,6 +7,12 @@ Unix: gcc -o hangman.out src/main.c src/libs/hangfunc.c <br />
 Windows: gcc -o hangman.exe src/main.c src/libs/hangfunc.c <br />
 You can change "hangman.out / .exe" for anything you like. 
 
+# Playing the game
+## Unix: ./hangman.out
+## Windows:
+### PowerShell: ./hangman.exe
+### CMD: hangman.exe
+
 # Wordlist instructions
 You can change the wordlist, just make sure the first line of the file is the numeber of lines - 1.<br />
 For example:<br />
