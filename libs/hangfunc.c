@@ -123,7 +123,6 @@ void chooseRandomWordFromArchive(char secretWord[7]){
 
 	fclose(f);
 	clrscr();
-	printf("%s\n", secretWord);
 }
 
 int difficultySettings(){
